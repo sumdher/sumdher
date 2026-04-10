@@ -19,7 +19,7 @@ If you believe so, reach out to me. Let's build something together!
 ## Philosophy
 I believe progress comes from questioning the conventions.
 
-Updating priors to posteriors so much that likelihood becomes natural in retrospect.
+Cursed with updating priors to posteriors so much that likelihood becomes natural, heck, even predictable in retrospect.
 
 ---
 
