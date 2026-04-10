@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm a Full-Stack Developer & AI Data Engineer 👋
 
-<!--
-**sumdher/sumdher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I build across the stack and work with data to create solutions. 
+Innovation drives everything I do. I focus on exploring ideas and turning them into reality.
+> If why-not, then do-it-and-find-out, yeah?
+Is there anything more fun to do than to brainstorm with innovative thinkers? If you believe so, reach out to me. Let's build something together!
 
-Here are some ideas to get you started:
+## What I Bring
+- Strong full-stack development skills
+- Experience in agentic systems and data engineering + system design & architecture
+- A mindset focused on experimentation and innovation
+- Scientific fervor & temper
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Philosophy
+I believe progress comes from questioning the conventions.
+Updating priors to posteriors so much that likelihood becomes natural in retrospect.
+
+---
+
+Always building. Always experimenting. Always bringing something new to the table.
+ఇంక సెలవు 🚀
