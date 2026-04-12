@@ -1,4 +1,4 @@
-# Hi, I'm a Full-Stack Developer & AI Data Engineer 👋
+# Hi, I'm a Full-Stack Developer & AI Data Engineer
 
 ## About Me
 I build across the stack and work with data to create solutions. 
