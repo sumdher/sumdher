@@ -1,6 +1,6 @@
 # sudheer
 
-call it autism, but everything can be done more efficiently and it bothers me until it is<br>
+everything can be done more efficiently and it bothers me until it is<br>
 *probabilistic at heart · empirical at cortex*<br>
 
 <!-- comfortable with chaos; rigorous about it -->
