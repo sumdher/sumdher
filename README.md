@@ -1,7 +1,5 @@
 # sudheer
 
-goes deep. actually understands things. then makes them personal, robust, and observable<br>
-reads source code, writes rollback notes, labels everything, documents the why<br>
 call it autism, but everything can be done more efficiently and it bothers me until it is<br>
 *probabilistic at heart · empirical at cortex*<br>
 
@@ -10,6 +8,7 @@ call it autism, but everything can be done more efficiently and it bothers me un
 <!-- not understanding >>> wrongly understanding -->
 
 ---
+
 
 **AI & LLM**
 
@@ -47,9 +46,16 @@ call it autism, but everything can be done more efficiently and it bothers me un
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-**UI/UX**
 
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+**AI-Assisted Dev**
+
+![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
+![Roo Code](https://img.shields.io/badge/Roo_Code-000000?style=flat-square&logoColor=white)
+
+<!--**UI/UX**
+
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) -->
 
 **Infrastructure & Observability**
 
@@ -58,16 +64,12 @@ call it autism, but everything can be done more efficiently and it bothers me un
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat-square&logo=opentelemetry&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=flat-square&logo=sentry&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Infisical](https://img.shields.io/badge/Infisical-EF3E36?style=flat-square&logo=infisical&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-**AI-Assisted Dev**
-
-![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=flat-square&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white)
-![Roo Code](https://img.shields.io/badge/Roo_Code-000000?style=flat-square&logoColor=white)
 
 ---
 
